@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: SpigotAutoBuilder
+  IMAGE_NAME: spigot-auto-builder
 
 jobs:
   # Run tests.
